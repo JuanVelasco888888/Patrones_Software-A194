@@ -11,10 +11,10 @@
 
 ##  Tecnologías utilizadas
 
-- **Lenguaje:** Python 3.9+
+- **Lenguaje:** Python
 - **Framework de interfaz:** Streamlit
 - **Librerías:** Pandas, Threading
-- **Patrones de diseño:** Singleton, Factory
+- **Patrones de diseño implementados:** Singleton, Factory
 
 ##  Interfaz de demostración Smart Grid
 
