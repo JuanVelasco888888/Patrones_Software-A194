@@ -10,6 +10,9 @@
 >Link Video Patron Factory Semana-4
 >https://youtu.be/DETsGKiOHws
 
+>Link Video Abstract+Builder+Prototype
+>https://youtu.be/8VQogCXh01w
+
 
 
 ##  Tecnologías utilizadas
