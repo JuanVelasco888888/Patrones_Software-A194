@@ -1,0 +1,9 @@
+tipo_fila;tipo_fuente;nombre;potencia_w;clave;valor
+fuente;solar;Panel Solar Sur;50000;;
+fuente;eolica;Turbina Eolica 2;30000;;
+fuente;hidroelectrica;Hidro Central;20000;;
+fuente;termica;Planta Diesel;70000;;
+parametro;;;;umbral_pico_kw;75
+parametro;;;;carga_base_kw;28
+parametro;;;;carga_pico_kw;95
+parametro;;;;semilla;21
