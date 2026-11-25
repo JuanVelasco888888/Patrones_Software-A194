@@ -4,11 +4,6 @@
 
 >Juan Felipe Velasco Tobon
 
->Link Video Semana-3
->https://youtu.be/xaHxhgXt6jY
->Link Video Semana-4
->https://youtu.be/DETsGKiOHws
-
 
 
 ##  Tecnologías utilizadas
@@ -19,8 +14,8 @@
 - **Patrones de diseño implementados:** Singleton, Factory
 
 ##  Interfaz de demostración Smart Grid
+<img width="1265" height="609" alt="image" src="https://github.com/user-attachments/assets/e9d3ed3f-b1b0-4181-b5fa-bfcff629afa1" />
 
-<img width="1352" height="646" alt="image" src="https://github.com/user-attachments/assets/87418ec8-6a0c-4cb3-a9d7-d4612e64fd9b" />
 
 ## Smart Grid — Guía de Instalación y Ejecución
 Este documento explica paso a paso cómo instalar y ejecutar el proyecto Smart Grid (Sistema de Gestión de Redes Inteligentes) en tu computadora.
@@ -51,6 +46,7 @@ bash
 El proyecto requiere Streamlit (para la interfaz gráfica) y Pandas (para el manejo de tablas). Ejecuta el siguiente comando:
 
 bash
+**pip install -r requirements.txt**
 **python -m pip install streamlit pandas**
 Este comando descargará e instalará automáticamente todo lo necesario. Espera a que termine (verás un mensaje de "Successfully installed...").
 
