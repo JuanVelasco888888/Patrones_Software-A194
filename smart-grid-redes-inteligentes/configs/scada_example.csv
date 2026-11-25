@@ -1,0 +1,26 @@
+tipo_fila;tipo_fuente;nombre;potencia_w;clave;valor
+fuente;solar;Parque Solar Norte;60000;;
+fuente;solar;Parque Solar Sur;45000;;
+fuente;solar;Techo Solar Industrial;25000;;
+fuente;solar;Huerto Solar Este;30000;;
+fuente;eolica;Turbina Eolica 1;20000;;
+fuente;eolica;Turbina Eolica 2;25000;;
+fuente;eolica;Turbina Eolica 3;18000;;
+fuente;eolica;Parque Eolico Costa;40000;;
+fuente;eolica;Mini Eolica Cerro;12000;;
+fuente;hidroelectrica;Hidro Central Rio;50000;;
+fuente;hidroelectrica;Mini Hidro Norte;15000;;
+fuente;hidroelectrica;Represa Alta;35000;;
+fuente;hidroelectrica;Hidro Pasada;22000;;
+fuente;geotermica;Pozo Geotermico Sur;30000;;
+fuente;geotermica;Pozo Geotermico Norte;28000;;
+fuente;bateria;Banco de Baterias Central;40000;;
+fuente;termica;Planta Diesel 1;70000;;
+fuente;termica;Planta Diesel 2;55000;;
+fuente;termica;Planta Gas Respaldo;80000;;
+fuente;termica;Planta Carbon Antigua;40000;;
+fuente;termica;Generador Emergencia;25000;;
+parametro;;;;umbral_pico_kw;95
+parametro;;;;carga_base_kw;40
+parametro;;;;carga_pico_kw;130
+parametro;;;;semilla;17

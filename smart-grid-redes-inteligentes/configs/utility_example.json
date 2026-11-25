@@ -1,0 +1,13 @@
+{
+  "generators": [
+    { "type": "solar",          "label": "Parque Solar Norte",   "cap_kw": 60 },
+    { "type": "eolica",         "label": "Turbina Eolica",       "cap_kw": 35 },
+    { "type": "hidroelectrica", "label": "Mini Hidro",           "cap_kw": 25 },
+    { "type": "geotermica",     "label": "Pozo Geotermico Sur",  "cap_kw": 45 },
+    { "type": "bateria",        "label": "Banco de Baterias",    "cap_kw": 30 },
+    { "type": "termica",        "label": "Planta de Respaldo",   "cap_kw": 80 }
+  ],
+  "thresholds": { "peak_kw": 85 },
+  "demand":     { "off_peak_kw": 25, "on_peak_kw": 105 },
+  "random_seed": 7
+}
